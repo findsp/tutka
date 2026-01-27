@@ -22,5 +22,6 @@ sudo apt install qt5-default libasound2-dev
 wget [your-deb]
 sudo dpkg -i tutka.deb
 tutka
+```  
 
 ![Tutka Screenshot](images/tutka_screenshot.png)
