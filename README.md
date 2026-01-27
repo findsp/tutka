@@ -37,7 +37,6 @@ sudo apt install qt5-default libasound2-dev checkinstall
 **Key fixes:**
 - ✅ **Added BINARY install**  
 - ✅ **Correct runtime deps** 
-- ✅ **[your-deb] → actual wget URL**
 - ✅ **qt5-default → qtbase5-dev** (modern naming)
 - ✅ **Both binary + source paths**
 - ✅ **No duplication**
