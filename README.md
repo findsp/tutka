@@ -1,6 +1,6 @@
 # Tutka 1.1.3 - Modern Debian Build 🐉
 
-2015 chiptune tracker fixed for 2026 Debian 13+ (GCC14/Qt5.15)
+2015 chiptune tracker fixed for 2026 Debian 13+ (GCC14/Qt5.15)  
 Tutka is a free (as in freedom) tracker style MIDI sequencer for GNU/Linux and Mac OS X
 
 ## Install
