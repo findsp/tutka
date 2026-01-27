@@ -7,9 +7,9 @@
 > **Devices:** Tutka outputs ALSA MIDI only.  
 > **Connect:** Route MIDI to a hardware synth, or to a software synth via ALSA/JACK/PipeWire.
  
-> **Compatible File Import/Export Formats**
-> Import Tutka songs (.tutka), OctaMED SoundStudio Songs (.med),
-> Export Tutka songs (.tutka), OctaMED SoundStudio Songs (.med), Standard MIDI Files (.mid) 
+> **Compatible File Import/Export Formats**  
+> Import Tutka songs (.tutka), OctaMED SoundStudio Songs (.med),  
+> Export Tutka songs (.tutka), OctaMED SoundStudio Songs (.med), Standard MIDI Files (.mid)   
 
 ## 🚀 Ready-to-run Binary (Recommended)
 ```bash
