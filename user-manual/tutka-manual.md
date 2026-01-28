@@ -482,7 +482,3 @@ When the song is played, blocks follow the order defined in the playing sequence
 For longer songs or repeated sections, it can be useful to group multiple blocks into larger sequences. Instead of repeatedly defining the same block order in the playing sequence, you can create several **playing sequences**.  
 
 For example, a song might have an **intro**, **verse**, and **chorus**, with the verse and chorus repeated twice. Each of these parts can be defined as a separate playing sequence using the **Playing Sequence List** window. Then, the overall order of these sequences can be arranged in the **Section List** window, creating a clear, organized structure for the song.
-
-
-
-
