@@ -154,7 +154,7 @@ The bottom part contains a status bar that shows the currently active section, p
 
 ### Block List
 
-![Block List](images/blocklist.png)
+![Block List](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/blocklist.png)
 
 The Block List window can be used to select the current block, create new blocks, delete existing blocks, and change the properties of the blocks.
 
@@ -171,7 +171,7 @@ The Block List window can be used to select the current block, create new blocks
 
 ### Playing Sequence
 
-![Playing Sequence](images/playingsequence.png)
+![Playing Sequence](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/playingsequence.png)
 
 The Playing Sequence window can be used to select the current position in the current playing sequence, insert new positions, delete existing positions, and change the block to be played in different playing sequence positions.
 
@@ -185,7 +185,7 @@ The Playing Sequence window can be used to select the current position in the cu
 
 ### Playing Sequence List
 
-![Playing Sequence List](images/playingsequencelist.png)
+![Playing Sequence List](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/playingsequencelist.png)
 
 The Playing Sequence List window can be used to select the current playing sequence, insert new playing sequences, delete existing playing sequences, and change the name of the current playing sequence.
 
@@ -199,7 +199,7 @@ The Playing Sequence List window can be used to select the current playing seque
 
 ### Section List
 
-![Section List](images/sectionlist.png)
+![Section List]([images/sectionlist.png](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/sectionlist.png)
 
 The Section List window can be used to select the current section, insert new sections, delete existing sections, and change the playing sequence to be played in different sections.
 
@@ -213,7 +213,7 @@ The Section List window can be used to select the current section, insert new se
 
 ### Instrument Properties
 
-![Instrument Properties](images/instrumentproperties.png)
+![Instrument Properties](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/instrumentproperties.png)
 
 The Instrument Properties window can be used to change the **name**, **MIDI interface**, **MIDI channel**, **volume**, **transpose**, and **hold** of the current instrument.
 
@@ -227,13 +227,13 @@ The Instrument Properties window can be used to change the **name**, **MIDI inte
 
 ### Open File
 
-![Open File](images/openfile.png)
+![Open File]([images/openfile.png](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/openfile.png))
 
 The Open File dialog can be used to load a Tutka XML file or an MMD song.
 
 ### Save As
 
-![Save As](images/saveas.png)
+![Save As](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/saveas.png)
 
 The Save As dialog can be used to save the current song as a Tutka XML file, as an MMD song, or as an SMF (MIDI) file. The file format depends on the file extension:  
 - `.med`, `.mmd`, and `.mmd2` save as an MMD file  
@@ -244,7 +244,7 @@ The Save As dialog can be used to save the current song as a Tutka XML file, as 
 
 ### Transpose
 
-![Transpose](images/transpose.png)
+![Transpose](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/transpose.png)
 
 The Transpose dialog can be used to transpose a part of the song. The area to transpose can be the entire song, the current block, the current track, or a selection. You can select whether to transpose **all instruments** in the area or just the **current instrument**. The notes can be transposed **octave up**, **octave down**, **halfnote up**, or **halfnote down**.
 
@@ -252,7 +252,7 @@ The Transpose dialog can be used to transpose a part of the song. The area to tr
 
 ### Expand/Shrink
 
-![Expand/Shrink](images/expandshrink.png)
+![Expand/Shrink]([images/expandshrink.png](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/expandshrink.png)
 
 The Expand/Shrink dialog can be used to expand or shrink a part of the song. **Expanding** means adding empty lines between existing lines. **Shrinking** means removing lines between lines. Expand/Shrink does **not** change the length of the block, so before expanding make sure there is enough space for all notes to fit.  
 
@@ -262,7 +262,7 @@ The area to expand/shrink can be the entire song, the current block, the current
 
 ### Change Instrument
 
-![Change Instrument](images/changeinstrument.png)
+![Change Instrument](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/changeinstrument.png)
 
 The Change Instrument dialog can be used to change an instrument to another in a part of the song. The area for changing instruments can be the entire song, the current block, the current track, or a selection.  
 
@@ -273,7 +273,7 @@ The Change Instrument dialog can be used to change an instrument to another in a
 
 ### Track Volumes
 
-![Track Volumes](images/trackvolumes.png)
+![Track Volumes](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/trackvolumes.png)
 
 The Track Volumes dialog is used to set the default volume of each track. All volumes range from 0 to 127. Tracks can also be **muted** (muted tracks are not played) or **soloed** (if tracks are soloed, the tracks that are not soloed are not played). Descriptive names can also be added to tracks.  
 
@@ -283,7 +283,7 @@ The Track Volumes dialog is used to set the default volume of each track. All vo
 
 ### Song Properties
 
-![Song Properties](images/songproperties.png)
+![Song Properties](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/songproperties.png)
 
 The Song Properties dialog is used to set the **name** and **tempo** of the current song.  
 
@@ -294,7 +294,7 @@ The Song Properties dialog is used to set the **name** and **tempo** of the curr
 
 ### Message List
 
-![Message List](images/messagelist.png)
+![Message List](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/messagelist.png)
 
 The Message List dialog allows you to create, delete, send, receive, load, and save MIDI messages, set their names and lengths, and determine whether they should be automatically sent after loading. Before MIDI messages can be sent, received, loaded, or saved—or before their properties can be changed—they must first be created.
 
@@ -314,7 +314,7 @@ The Message List dialog allows you to create, delete, send, receive, load, and s
 
 ### Load Message
 
-![Load Message](images/loadmessage.png)
+![Load Message](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/loadmessage.png)
 
 The Load Message dialog can be used to load a raw MIDI message from a file as the currently selected message.
 
@@ -322,7 +322,7 @@ The Load Message dialog can be used to load a raw MIDI message from a file as th
 
 ### Save Message
 
-![Save Message](images/savemessage.png)
+![Save Message](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/savemessage.png)
 
 The Save Message dialog can be used to save the currently selected message to a file as a raw MIDI message.
 
@@ -330,7 +330,7 @@ The Save Message dialog can be used to save the currently selected message to a 
 
 ### Receive MIDI Message
 
-![Receive MIDI Message](images/receivemidimessage.png)
+![Receive MIDI Message](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/receivemidimessage.png)
 
 This dialog allows you to receive a MIDI message to the currently selected message.
 
@@ -342,7 +342,7 @@ This dialog allows you to receive a MIDI message to the currently selected messa
 
 ### Preferences
 
-![Preferences](images/preferences.png)
+![Preferences](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/preferences.png)
 
 - The **MIDI interfaces list** allows you to select which of the available MIDI interfaces are to be used for input and which for output. If a MIDI interface is not enabled for output, notes sent to it using an instrument that has the MIDI interface defined are not played. If a MIDI interface is not enabled for input, MIDI messages cannot be received through the interface and the interface is not used for receiving notes.  
 
@@ -360,7 +360,7 @@ Elevated privileges and priorities can enhance timing accuracy.
 
 ### About
 
-![About](images/about.png)
+![About](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/preferences.png)
 
 This dialog displays information about the version of Tutka you are running.
 
@@ -368,7 +368,7 @@ This dialog displays information about the version of Tutka you are running.
 
 ### Quit
 
-![Quit](images/quit.png)
+![Quit](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/quit.png)
 
 This dialog allows you to quit Tutka by clicking on **Quit**. Click **Cancel** to cancel.
 
