@@ -199,7 +199,7 @@ The Playing Sequence List window can be used to select the current playing seque
 
 ### Section List
 
-![Section List]([images/sectionlist.png](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/sectionlist.png)
+![Section List](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/sectionlist.png)
 
 The Section List window can be used to select the current section, insert new sections, delete existing sections, and change the playing sequence to be played in different sections.
 
@@ -227,7 +227,7 @@ The Instrument Properties window can be used to change the **name**, **MIDI inte
 
 ### Open File
 
-![Open File]([images/openfile.png](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/openfile.png))
+![Open File](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/openfile.png)
 
 The Open File dialog can be used to load a Tutka XML file or an MMD song.
 
@@ -252,7 +252,7 @@ The Transpose dialog can be used to transpose a part of the song. The area to tr
 
 ### Expand/Shrink
 
-![Expand/Shrink]([images/expandshrink.png](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/expandshrink.png)
+![Expand/Shrink](https://raw.githubusercontent.com/findsp/tutka/refs/heads/main/user-manual/images/expandshrink.png)
 
 The Expand/Shrink dialog can be used to expand or shrink a part of the song. **Expanding** means adding empty lines between existing lines. **Shrinking** means removing lines between lines. Expand/Shrink does **not** change the length of the block, so before expanding make sure there is enough space for all notes to fit.  
 
