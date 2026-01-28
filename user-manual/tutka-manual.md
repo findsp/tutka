@@ -131,7 +131,7 @@ To provide further structure to a song, multiple playing sequences can be combin
 
 ## Main Window
 
-![Main Window](images/mainwindow.png)
+![Main Window](https://raw.githubusercontent.com/findsp/tutka/main/user-manual/images/mainwindow.png)
 
 The main window contains the primary controls of Tutka.
 
