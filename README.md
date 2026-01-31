@@ -36,7 +36,7 @@ sudo apt install qt5-default libasound2-dev checkinstall
 # make install → checkinstall → tutka_1.1.3-1_amd64.deb
 ```
 
-![Tutka Screenshot](images/tutka_screenshot.png)
+![Tutka Screenshot](https://raw.githubusercontent.com/findsp/tutka/main/images/tutka_screenshot.png)
 
 **Key fixes:**
 - ✅ **Added BINARY install**  
